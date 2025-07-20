@@ -1,4 +1,4 @@
-# 🛡️ Packet Sniffer Tool (Linux) - codealpha_task
+# 🛡️ Packet Sniffer Tool (Linux)
 
 A Python-based packet sniffer for educational and ethical hacking purposes. It captures, decodes, and displays network packets in real time—similar to Wireshark, directly in your terminal!
 
